@@ -12,6 +12,13 @@
 
 ## 排序
 
+- [Bubble](/src/ch2/sorting/Bubble.java) 冒泡排序
+- [Insertion](/src/ch2/sorting/Insertion.java) 插入排序
+- [Quick](/src/ch2/sorting/Quick.java) 快速排序
+- [Selection](/src/ch2/sorting/Selection.java) 选择排序
+- [Shell](/src/ch2/sorting/Shell.java) 希尔排序
+
+
 ## 查找
 
 ## 图
